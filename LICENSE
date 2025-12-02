@@ -1,0 +1,320 @@
+PROJECT E91 CUSTOM ETHICAL USE LICENSE
+Version 1.0, 2024
+
+═══════════════════════════════════════════════════════════════════════════
+
+Copyright (c) 2024 B4409 and Project E91 Contributors
+
+═══════════════════════════════════════════════════════════════════════════
+
+                        ETHICAL USE LICENSE AGREEMENT
+
+This software and associated documentation files (the "Software") are provided
+under the following terms and conditions. By using, copying, modifying, or
+distributing this Software, you agree to be bound by these terms.
+
+═══════════════════════════════════════════════════════════════════════════
+1. DEFINITIONS
+═══════════════════════════════════════════════════════════════════════════
+
+"Software" refers to the Project E91 tool, including all source code, 
+documentation, and associated files.
+
+"You" or "User" refers to any individual or entity using the Software.
+
+"Authors" refers to B4409 and all contributors to the Project E91 repository.
+
+"Ethical Use" means use that complies with all applicable laws, regulations,
+and the specific restrictions outlined in this license.
+
+"Sensitive Data" includes but is not limited to: passwords, authentication
+tokens, personally identifiable information (PII), payment information,
+private communications, and any data that reasonable security measures are
+designed to protect.
+
+═══════════════════════════════════════════════════════════════════════════
+2. PERMITTED USES
+═══════════════════════════════════════════════════════════════════════════
+
+Subject to the terms and conditions of this license, you are granted a 
+worldwide, royalty-free, non-exclusive license to:
+
+a) USE the Software for:
+   - Testing and auditing YOUR OWN websites and web applications
+   - Educational purposes and learning about web security
+   - Security research on systems you own or have explicit written permission
+   - Web development and SEO analysis of your own projects
+   - Accessibility auditing of your own websites
+   - Performance testing of your own web applications
+
+b) MODIFY the Software:
+   - Create derivative works
+   - Customize features for your needs
+   - Improve and extend functionality
+   - Fix bugs and enhance performance
+
+c) DISTRIBUTE the Software:
+   - Share copies of the original or modified Software
+   - Fork the repository on GitHub
+   - Include in educational materials
+   - Provided you maintain this license and attribution
+
+═══════════════════════════════════════════════════════════════════════════
+3. STRICTLY PROHIBITED USES
+═══════════════════════════════════════════════════════════════════════════
+
+You are EXPLICITLY PROHIBITED from:
+
+a) UNAUTHORIZED ACCESS:
+   - Using this Software on websites you do not own
+   - Using this Software without explicit written permission from website owners
+   - Accessing or attempting to access non-public areas of websites
+   - Bypassing security measures or authentication systems
+   - Violating any website's Terms of Service or robots.txt
+
+b) DATA THEFT:
+   - Collecting, harvesting, or extracting Sensitive Data
+   - Stealing credentials, passwords, or authentication tokens
+   - Harvesting personally identifiable information (PII)
+   - Accessing private communications or confidential information
+   - Collecting data for sale or unauthorized commercial use
+
+c) MALICIOUS ACTIVITIES:
+   - Using the Software for any illegal purpose
+   - Conducting denial-of-service attacks
+   - Distributing malware or malicious code
+   - Phishing or social engineering attacks
+   - Fraud or identity theft
+   - Harassment or stalking
+   - Any activity that violates local, state, national, or international law
+
+d) COMMERCIAL RESTRICTIONS:
+   - Selling the Software as-is without substantial modification
+   - Offering the Software as a paid service without adding significant value
+   - Marketing the Software as a "hacking tool" or for malicious use
+
+e) ATTRIBUTION:
+   - Removing or altering copyright notices
+   - Claiming authorship of the original Software
+   - Removing links to the original repository
+
+═══════════════════════════════════════════════════════════════════════════
+4. CONDITIONS OF USE
+═══════════════════════════════════════════════════════════════════════════
+
+a) ATTRIBUTION REQUIREMENT:
+   You must include the following attribution notice in any distribution:
+   
+   "Based on Project E91 by B4409
+    https://github.com/B4409/Project-E91
+    Licensed under the Project E91 Ethical Use License"
+
+b) LICENSE PRESERVATION:
+   You must include a copy of this license with any distribution of the
+   Software or derivative works.
+
+c) MODIFICATION NOTICE:
+   If you distribute modified versions, you must clearly state that changes
+   were made and indicate the nature of those changes.
+
+d) NO WARRANTY REMOVAL:
+   You may not remove or alter warranty disclaimers or liability limitations.
+
+═══════════════════════════════════════════════════════════════════════════
+5. DISCLAIMER OF WARRANTIES
+═══════════════════════════════════════════════════════════════════════════
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+THE AUTHORS MAKE NO REPRESENTATIONS OR WARRANTIES ABOUT:
+- The suitability of this Software for any purpose
+- The accuracy, reliability, or completeness of the Software
+- The results obtained from using the Software
+- The Software being error-free or uninterrupted
+- The Software meeting your specific requirements
+
+═══════════════════════════════════════════════════════════════════════════
+6. LIMITATION OF LIABILITY
+═══════════════════════════════════════════════════════════════════════════
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+THIS INCLUDES BUT IS NOT LIMITED TO:
+- Direct, indirect, incidental, special, or consequential damages
+- Loss of profits, data, or business opportunities
+- Legal fees and costs
+- Damages resulting from your misuse of the Software
+- Damages resulting from unauthorized access to systems
+- Damages resulting from violation of laws or regulations
+
+═══════════════════════════════════════════════════════════════════════════
+7. INDEMNIFICATION
+═══════════════════════════════════════════════════════════════════════════
+
+BY USING THIS SOFTWARE, YOU AGREE TO INDEMNIFY, DEFEND, AND HOLD HARMLESS
+THE AUTHORS AND CONTRIBUTORS FROM ANY AND ALL CLAIMS, DAMAGES, LOSSES,
+LIABILITIES, COSTS, AND EXPENSES (INCLUDING ATTORNEY FEES) ARISING FROM:
+
+- Your use or misuse of the Software
+- Your violation of this license
+- Your violation of any applicable laws or regulations
+- Your violation of any third-party rights
+- Any damage you cause to third parties through use of this Software
+
+═══════════════════════════════════════════════════════════════════════════
+8. USER RESPONSIBILITY & ASSUMPTION OF RISK
+═══════════════════════════════════════════════════════════════════════════
+
+YOU ACKNOWLEDGE AND AGREE THAT:
+
+a) You are solely responsible for how you use this Software
+b) You must verify the legality of your intended use in your jurisdiction
+c) You must obtain proper authorization before using this on any system
+d) You assume all risks associated with your use of the Software
+e) You are responsible for complying with all applicable laws
+f) You understand this is a security testing tool with potential for misuse
+g) You have "room temperature IQ" if you paste a CLEAR hacking script into
+   your console when ours says "Simulated" and theirs says "you're fucked"
+
+═══════════════════════════════════════════════════════════════════════════
+9. LEGAL COMPLIANCE
+═══════════════════════════════════════════════════════════════════════════
+
+You must comply with:
+- Computer Fraud and Abuse Act (CFAA) in the United States
+- Computer Misuse Act in the United Kingdom
+- General Data Protection Regulation (GDPR) where applicable
+- All applicable local, state, national, and international laws
+- Website Terms of Service and robots.txt directives
+- Professional codes of conduct if applicable
+
+═══════════════════════════════════════════════════════════════════════════
+10. EDUCATIONAL PURPOSE CLAUSE
+═══════════════════════════════════════════════════════════════════════════
+
+This Software is designed and distributed FOR EDUCATIONAL PURPOSES ONLY.
+
+The intended uses include:
+- Learning about web security
+- Understanding web scraping techniques
+- Studying website structure and SEO
+- Teaching security best practices
+- Demonstrating the importance of security measures
+
+This Software is NOT intended for:
+- Production hacking or penetration testing (use professional tools)
+- Unauthorized data collection
+- Circumventing security measures
+- Any malicious or illegal activity
+
+═══════════════════════════════════════════════════════════════════════════
+11. "YOU WERE WARNED" CLAUSE
+═══════════════════════════════════════════════════════════════════════════
+
+THIS SOFTWARE CLEARLY STATES IT IS FOR ETHICAL USE ONLY.
+
+If you:
+- Use this tool illegally or maliciously
+- Ignore the warnings and disclaimers
+- Claim you "didn't know" it was illegal
+- Try to sue us after getting caught
+
+Then you:
+- Accept full responsibility for your actions
+- Cannot hold the authors liable
+- Acknowledge you were explicitly warned
+- Demonstrate what we call "room temperature IQ"
+
+═══════════════════════════════════════════════════════════════════════════
+12. NO TECHNICAL SUPPORT FOR MISUSE
+═══════════════════════════════════════════════════════════════════════════
+
+The authors will NOT provide support for:
+- Illegal uses of the Software
+- Circumventing security measures
+- Unauthorized access attempts
+- Any activity that violates this license
+
+═══════════════════════════════════════════════════════════════════════════
+13. TERMINATION
+═══════════════════════════════════════════════════════════════════════════
+
+Your license to use this Software automatically terminates if you:
+- Violate any term of this license
+- Use the Software for prohibited purposes
+- Remove or alter attribution or license notices
+- Engage in illegal activities using the Software
+
+Upon termination, you must:
+- Cease all use of the Software immediately
+- Destroy all copies in your possession
+- Remove any deployed instances
+
+═══════════════════════════════════════════════════════════════════════════
+14. MODIFICATIONS TO LICENSE
+═══════════════════════════════════════════════════════════════════════════
+
+The authors reserve the right to modify this license for future versions of
+the Software. Your use of a specific version is governed by the license
+included with that version.
+
+═══════════════════════════════════════════════════════════════════════════
+15. SEVERABILITY
+═══════════════════════════════════════════════════════════════════════════
+
+If any provision of this license is found to be unenforceable or invalid,
+that provision will be limited or eliminated to the minimum extent necessary
+so that this license remains in full force and effect.
+
+═══════════════════════════════════════════════════════════════════════════
+16. ENTIRE AGREEMENT
+═══════════════════════════════════════════════════════════════════════════
+
+This license constitutes the entire agreement between you and the authors
+regarding use of the Software and supersedes all prior agreements and
+understandings, whether written or oral.
+
+═══════════════════════════════════════════════════════════════════════════
+17. GOVERNING LAW
+═══════════════════════════════════════════════════════════════════════════
+
+This license shall be governed by and construed in accordance with the laws
+of the jurisdiction in which the authors reside, without regard to conflict
+of law principles.
+
+═══════════════════════════════════════════════════════════════════════════
+18. ACCEPTANCE OF TERMS
+═══════════════════════════════════════════════════════════════════════════
+
+BY USING, COPYING, MODIFYING, OR DISTRIBUTING THIS SOFTWARE, YOU ACKNOWLEDGE
+THAT YOU HAVE READ THIS LICENSE, UNDERSTAND IT, AND AGREE TO BE BOUND BY
+ITS TERMS AND CONDITIONS.
+
+IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SOFTWARE.
+
+═══════════════════════════════════════════════════════════════════════════
+19. CONTACT
+═══════════════════════════════════════════════════════════════════════════
+
+For questions about this license:
+- GitHub: https://github.com/B4409/Project-E91
+- Issues: https://github.com/B4409/Project-E91/issues
+
+═══════════════════════════════════════════════════════════════════════════
+
+TL;DR (NOT LEGALLY BINDING):
+
+✅ DO: Use ethically, test your own stuff, learn, modify, share
+❌ DON'T: Hack others, steal data, do illegal stuff, sell as-is, sue us
+
+If you get in trouble after using this for hacking, that's YOUR fault,
+not ours. We warned you. Multiple times. In big letters. With emojis.
+
+═══════════════════════════════════════════════════════════════════════════
+
+END OF LICENSE
